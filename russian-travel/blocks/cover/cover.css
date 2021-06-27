@@ -1,0 +1,12 @@
+.cover{
+     width: 100%;
+     max-width: 1184px;
+     padding-bottom: 92px;
+     display: flex;
+     margin: auto;
+}
+ @media screen and (max-width: 767px) {
+     .cover {
+         padding-bottom: 64px;
+    }
+}

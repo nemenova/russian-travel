@@ -1,0 +1,12 @@
+.place__text-cell{
+     display: flex;
+     flex-direction: column;
+     align-content:space-between;
+}
+ @media screen and (max-width: 767px) {
+     .place__text-cell{
+         width: 90%;
+         margin: auto;
+    }
+}
+ 
